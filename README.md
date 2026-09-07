@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="open-redirect-scanner" width="800">
+</div>
+
 # open-redirect-scanner
 
 > Red team security tool for authorized testing only.
