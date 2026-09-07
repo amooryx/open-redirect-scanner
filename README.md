@@ -1,8 +1,8 @@
-﻿# open-redirect-scanner
+# open-redirect-scanner
 
 > Red team security tool for authorized testing only.
 
-`ash
+```bash
 python open_redirect_scanner.py --help
 ```
 
